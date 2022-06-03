@@ -1,0 +1,9 @@
+setup.py
+html2pdfSearch/__init__.py
+html2pdfSearch/html2pdfSearch.py
+html2pdfSearch.egg-info/PKG-INFO
+html2pdfSearch.egg-info/SOURCES.txt
+html2pdfSearch.egg-info/dependency_links.txt
+html2pdfSearch.egg-info/not-zip-safe
+html2pdfSearch.egg-info/requires.txt
+html2pdfSearch.egg-info/top_level.txt
